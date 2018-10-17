@@ -12,6 +12,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
  * Application
  * @author ThinkGem
  * @version 2018-10-13
+ * Github:Granttt
  * 默认最高管理员账号：system  密码：admin
  */
 @SpringBootApplication
